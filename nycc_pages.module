@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the nycc pages feature.
+ */
+
+include_once 'nycc_pages.features.inc';
